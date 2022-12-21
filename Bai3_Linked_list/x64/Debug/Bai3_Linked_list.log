@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\C++_VS\DataStructure_Algorithms\Bai3_Linked_list\Bai3_Linked_list\Source.cpp(39): warning C4715: 'search': not all control paths return a value
+  Bai3_Linked_list.vcxproj -> D:\C++_VS\DataStructure_Algorithms\Bai3_Linked_list\x64\Debug\Bai3_Linked_list.exe
